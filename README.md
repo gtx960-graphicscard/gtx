@@ -1,1 +1,1 @@
-# Hello everybody This is my homemade website, there are some b station (https://www.bilibili.com) is banned in the town station. Creating a website for the first time, do not good please forgive me!
+#大家好这是我的网站,有一些b站上被封禁的视频(https://www.bilibili.com)的。创建一个网站第一次,做的不好请原谅我!
